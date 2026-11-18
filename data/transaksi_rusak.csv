@@ -1,0 +1,8 @@
+tanggal,deskripsi,kategori,jumlah,tipe
+2026-09-01,Gaji bulanan,gaji,5000000,pemasukan
+2026-09-02,Kos,kos,1.200.000,pengeluaran
+2026-13-40,Tanggal ngawur,makanan,25000,pengeluaran
+2026-09-05,Jumlah negatif,makanan,-450000,pengeluaran
+2026-09-07,Tipe salah,transport,50000,transfer
+2026-09-10,Jumlah kosong,hiburan,,pengeluaran
+2026-09-12,Baris valid,makanan,35000,pengeluaran

@@ -1,0 +1,42 @@
+{
+  "ringkasan": {
+    "jumlah_transaksi": 20,
+    "total_pemasukan": 16650000.0,
+    "total_pengeluaran": 5135000.5,
+    "saldo": 11514999.5,
+    "kategori_pengeluaran_terbesar": "kos"
+  },
+  "rekap_bulanan": {
+    "2026-09": {
+      "pemasukan": 5750000.0,
+      "pengeluaran": 2013000.0,
+      "saldo": 3737000.0
+    },
+    "2026-10": {
+      "pemasukan": 5900000.0,
+      "pengeluaran": 1542000.5,
+      "saldo": 4357999.5
+    },
+    "2026-11": {
+      "pemasukan": 5000000.0,
+      "pengeluaran": 1580000.0,
+      "saldo": 3420000.0
+    }
+  },
+  "pengeluaran_per_kategori": {
+    "kos": 3600000.0,
+    "tagihan": 560000.0,
+    "makanan": 545000.5,
+    "pendidikan": 180000.0,
+    "hiburan": 168000.0,
+    "transport": 82000.0
+  },
+  "persentase_pengeluaran": {
+    "kos": 70.1,
+    "tagihan": 10.9,
+    "makanan": 10.6,
+    "pendidikan": 3.5,
+    "hiburan": 3.3,
+    "transport": 1.6
+  }
+}
